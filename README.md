@@ -1,2 +1,2 @@
 # JFP
-Java first Projekt tryingout with Github!
+Simple Model-Viev-Controler exampel!
